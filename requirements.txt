@@ -1,0 +1,4 @@
+moviepy==1.0.3
+SpeechRecognition==3.14.3
+python-docx==1.2.0
+pydub==0.25.1
